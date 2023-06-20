@@ -1,5 +1,7 @@
 # 忽略数据文件
 data/
+externalizing_classification/data/
+externalizing_classification/processed/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

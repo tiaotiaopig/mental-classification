@@ -54,7 +54,7 @@
         "bfq_breastfeed_p",
         "bfq_breastfeed_time_p"
     ],
-    "stq01.txt": [
+    "abcd_stq01.txt": [
         "screentime_wkdy_typical_hr",
         "screentime_wkdy_typical_min",
         "screentime_wknd_typical_hr",
@@ -1001,5 +1001,11 @@
         "rsfmri_cor_ngd_vs_scs_hprh",
         "rsfmri_cor_ngd_vs_scs_agrh",
         "rsfmri_cor_ngd_vs_scs_aarh"
+    ],
+    "abcd_imgincl01.txt": [
+        "imgincl_t1w_include",
+        "imgincl_t2w_include",
+        "imgincl_dmri_include",
+        "imgincl_rsfmri_include"
     ]
 }
